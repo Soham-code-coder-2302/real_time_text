@@ -1,0 +1,42 @@
+.heading {
+    background-color: orange;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 3px 3px 5px black;
+    width: 93%;
+    height: 15%;
+    font-size: 30px;
+    padding: 10px;
+    pointer-events: none;
+    }
+
+.note {
+color: black;
+}
+    
+    .heading span {
+    font-size: 20px;
+    }
+    
+    #text_size {
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    }
+    
+    .copy_right_footer {
+    background-color: gray;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 17px;
+    line-height: 2;
+    }
+    
+    canvas {
+    border:5px ridge gray;
+    background-color: white;
+    box-shadow: 3px 3px 4px black;
+    }
